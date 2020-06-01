@@ -1,2 +1,1 @@
-# BlogCafe
-El mejor cafe..!
+# blogCafe
